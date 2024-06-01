@@ -1,0 +1,7 @@
+# This equation x2 + y2 + z2 – 3xyz formula: (x + y + z)(x2 + y2 + z2 – xy – yz -xz)
+print("Let's solve an equation x2 + y2 + z2 – 3xyz! Give me 3 variables")
+x = int(input("Please provide x: "))
+y = int(input("Please provide y: "))
+z = int(input("Please provide z: "))
+total = int((x + y + z)*(x**2 + y**2 + z**2 - x*y -y*z - x*z))
+print("Solution is: ", total)

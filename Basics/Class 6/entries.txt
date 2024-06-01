@@ -1,0 +1,10 @@
+id, name, age, city, potatoes
+1, Merlyn, 22, Espoo, 3
+2, Jarno, 23, Espoo, 4
+3, Lumilee, 1, Espoo, 1
+4, Anne, 55, Jõgeva, 3
+5, Kuldar, 57, Jõgeva, 4
+6, Merlyn, 22, Espoo, 3
+id, name, age, city, potato_count
+7,22,Jõgeva,2
+8,23,Jõgeva,3

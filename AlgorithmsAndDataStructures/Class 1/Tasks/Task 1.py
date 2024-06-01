@@ -1,0 +1,1 @@
+# Given any integer n, assume it as a list of numbers from 0 to n. Write a recursive functions to calculate SUM of all numbers and  Multiplication result of all numbers.
