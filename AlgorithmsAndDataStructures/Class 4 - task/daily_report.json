@@ -1,0 +1,51 @@
+[
+    {
+        "customer_name": "Laura",
+        "products": [
+            {
+                "product": "Smartphone",
+                "original_price": 800,
+                "discounted_price": 720.0
+            },
+            {
+                "product": "TV",
+                "original_price": 500,
+                "discounted_price": 450.0
+            }
+        ],
+        "total_price": 1300,
+        "total_discounted_price": 1170.0,
+        "cashier_name": "Anne"
+    },
+    {
+        "customer_name": "Karl",
+        "products": [
+            {
+                "product": "Headphones",
+                "original_price": 100,
+                "discounted_price": 100
+            }
+        ],
+        "total_price": 100,
+        "total_discounted_price": 100,
+        "cashier_name": "Anne"
+    },
+    {
+        "customer_name": "Merlyn",
+        "products": [
+            {
+                "product": "Charger",
+                "original_price": 20,
+                "discounted_price": 16.0
+            },
+            {
+                "product": "TV",
+                "original_price": 500,
+                "discounted_price": 450.0
+            }
+        ],
+        "total_price": 520,
+        "total_discounted_price": 466.0,
+        "cashier_name": "Martin"
+    }
+]
